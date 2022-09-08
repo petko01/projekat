@@ -1,0 +1,35 @@
+#form-update{
+    border: 2px solid rgb(69,82,110);
+    width: 500px;
+    height: auto;
+    margin: 40px auto;
+    padding: 20px;
+}
+input{
+    border: 1px solid rgb(69,82,110);
+    width: 300px;
+    height: 30px;
+}
+label{
+    color: rgba(69,82,110,0.8);
+    font-size: 20px;
+    width: 100px;
+}
+#update{
+    border: unset;
+    background-color: rgba(69,82,110,0.8);
+    color: whitesmoke;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+#cancel{
+    border: unset;
+    background-color: rgba(69,82,110,0.8);
+    color: whitesmoke;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}

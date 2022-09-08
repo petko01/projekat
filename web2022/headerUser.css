@@ -1,0 +1,10 @@
+#logo{
+    width: 200px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.nav-link{
+    border: unset;
+    background-color: unset;
+}

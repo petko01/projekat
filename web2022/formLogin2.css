@@ -1,0 +1,53 @@
+body{
+    background-image: url("images/img2.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#form {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+    background-color: rgba(255,255,255,0.6);
+    margin: 15vh auto;
+    padding: 80px 20px 20px 20px;
+    font-family: Calibri;
+}
+.label {
+    width: 200px;
+    margin-bottom: 2px;
+}
+input {
+    width: 350px;
+    height: 40px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #878680;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: #8a3a01;
+}
+#sign-in {
+    margin-top: 5px;
+    cursor: pointer;
+    background-color: #ed641f;
+    border:unset;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.error{
+    height: auto;
+}
+.msg{
+    width: 350px;
+    height: auto;
+    margin: 0;
+    padding: 5px;
+    border: 1px solid #940000;
+    background-color: #ebbcc0;
+    color: #940000;
+}

@@ -1,0 +1,38 @@
+table, td, th {
+    border-bottom: 1px solid gray;
+    height: 50px;
+    margin-left: 10px;
+}
+th{
+    background-color:gray;
+    color: white;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid gray;
+    width: auto;
+}
+.column1{
+    width: 250px;
+}
+.column2{
+    width: 75px;
+}
+.column3{
+    width: 75px;
+}
+.column4{
+    width: 250px;
+}
+.column5{
+    width: 75px;
+}
+.column6{
+    width: 75px;
+}
+.column7{
+    width: 600px;
+}
+.column8{
+    width: 100px;
+}

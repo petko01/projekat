@@ -1,0 +1,32 @@
+table,th,td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-left: 20px;
+}
+table{
+    width: auto;
+    height: auto;
+}
+.column1{
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+}
+.column2{
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+}
+a{
+    text-decoration: unset;
+}
+.column3{
+    width: 50px;
+    height: 30px;
+    padding: 5px;
+}
+.column4{
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+}

@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    min-height: 100vh;
+}
+#box{
+    /* border: 2px solid red;*/
+    min-height: 60vh;
+    height: auto;
+    margin: auto;
+}

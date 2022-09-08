@@ -1,0 +1,37 @@
+#form-profile{
+    border: 2px solid rgb(69,82,110);
+    width: 450px;
+    height: auto;
+    margin: 40px auto;
+    padding: 20px;
+}
+#cv{
+    width: 400px;
+    height: 200px;
+    border: 1px solid rgb(69,82,110);
+}
+input{
+    border: 1px solid rgb(69,82,110);
+}
+label{
+    color: rgba(69,82,110,0.8);
+    font-size: 20px;
+    width: 100px;
+}
+#change{
+    border: unset;
+    background-color: rgba(69,82,110,0.8);
+    color: whitesmoke;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#cancel{
+    border: unset;
+    background-color: rgba(69,82,110,0.8);
+    color: whitesmoke;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#file{
+    width: auto;
+}

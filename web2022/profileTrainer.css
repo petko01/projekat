@@ -1,0 +1,49 @@
+.box2{
+    width: 100%;
+    min-height: 600px;
+    margin: auto;
+}
+.trainer{
+    width: 90%;
+    margin: 20px auto;
+    min-height: 400px;
+    background-color: whitesmoke;
+}
+#up{
+    display: flex;
+    min-height: 300px;
+    width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
+}
+#down{
+    min-height: auto;
+    width: 90%;
+    margin: 10px auto;
+}
+#img{
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+#title{
+    width: 400px;
+    height: auto;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+#text{
+    font-size: 20px;
+    padding: 10px;
+}
+#profile{
+    border: 3px solid #ed641f;
+    color: whitesmoke;
+    background-color: #ed641f;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+

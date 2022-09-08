@@ -1,0 +1,11 @@
+.btn{
+    border-color: #ed641f;
+    color: #ed641f;
+    out: #ed641f;
+}
+.btn:hover,.btn:active,.btn:visited,.btn:link{
+    background-color: #ed641f;
+    border-color: #ed641f;
+    outline-color: #ed641f;
+    color: white;
+}

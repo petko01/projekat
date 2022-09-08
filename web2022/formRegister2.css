@@ -1,0 +1,64 @@
+body{
+    background-image: url("images/img2.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#form{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    min-height: 1000px;
+    background-color: rgba(255,255,255,0.6);
+    margin: 10px auto;
+    padding: 50px 20px 20px 20px;
+    font-family: Calibri;
+}
+.label{
+    width: 200px;
+    margin-bottom: 2px;
+}
+input{
+    margin-bottom: 5px;
+    width: 350px;
+    height: 40px;
+    padding: 5px;
+    border: 1px solid #878680;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: #383535;
+}
+#sign-up{
+    margin-top: 5px;
+    cursor: pointer;
+    background-color: #ed641f;
+    border:unset;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+#cv{
+    width: 350px;
+    height: 100px;
+    padding: 0;
+}
+textarea {
+    resize: none;
+}
+#msg{
+    width: 350px;
+    height: 35px;
+    margin: 0;
+    padding: 5px;
+    color: #940000;
+    height: auto;
+}
+#checkbox{
+    width: 20px;
+    height: 20px;
+}
+#img{
+    border: unset;
+}

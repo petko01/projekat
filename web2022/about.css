@@ -1,0 +1,41 @@
+#image{
+    background-image: url("images/about1.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 40%;
+    height: 500px;
+    margin: 20px auto;
+    color: rgba(255,255,255,0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    text-align: center;
+}
+#text{
+    width: 30%;
+    height: auto;
+    margin: auto;
+}
+h3{
+    width: 100%;
+    height: auto;
+    margin: 5px 0;
+
+}
+
+@media only screen and (max-width: 1300px) {
+    #image{
+        height: 300px;
+
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    h2{
+        font-size: 20px;
+
+    }
+}
+
